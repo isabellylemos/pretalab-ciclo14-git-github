@@ -1,0 +1,6 @@
+Revisar comandos git básicos
+-Criar repositórios no GitHub
+-Praticar merge e pull request
+-Criar e utilizar branchs
+-Fazer rebase e stash
+-Fazer as atividades do PretaLab
